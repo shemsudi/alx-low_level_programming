@@ -1,9 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
+/**
+ * main - Check if a number.
+ * @void: Null value
+ *
+ * Description: Print if a number is positive, negative or zero
+ * Return: Zero value
+ */
 
-/* betty style doc for function main goes there */
 int main(void)
 {
 	int n;
